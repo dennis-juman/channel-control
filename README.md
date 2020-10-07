@@ -1,0 +1,2 @@
+# Channel Control ~ Discord Bot
+I made this bot for my 5.5k Discord server. This bot has been made because I could not find any on the internet and wanted to provide exclusive functionality to my Discord server. This bot can automatically locks channels after a specific time and manually lock and unlock channels. Made with JavaScript and Node.js & Discord.js and a couple of other Node NPMs. This is my first succesfully launched & used & made app.
